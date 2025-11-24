@@ -1,4 +1,4 @@
-# El Universo - Explora el Cosmos
+# El Universo
 
 Página web educativa sobre astronomía con información sobre galaxias, estrellas, planetas y el Big Bang.
 
@@ -14,7 +14,7 @@ Página web educativa sobre astronomía con información sobre galaxias, estrell
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/el-universo.git
+git clone https://github.com/ErickDani001/Curso-BECALOS-front-end-asistido-por-IA.git
 cd el-universo
 ```
 
